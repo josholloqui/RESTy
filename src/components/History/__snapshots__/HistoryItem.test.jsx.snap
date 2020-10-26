@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`HistoryItem component renders HistoryItem component 1`] = `
+<DocumentFragment>
+  <section>
+    <h2>
+      GET
+    </h2>
+    <p>
+      https://anapioficeandfire.com/api/characters/583
+    </p>
+    <p>
+      This is the body
+    </p>
+  </section>
+</DocumentFragment>
+`;
