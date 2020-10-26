@@ -9,6 +9,7 @@ describe('HistoryItem component', () => {
       <HistoryItem
         url="https://anapioficeandfire.com/api/characters/583"
         method="GET"
+        body="This is the body"
       />
     );
 

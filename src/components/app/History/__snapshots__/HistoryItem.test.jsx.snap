@@ -9,7 +9,9 @@ exports[`HistoryItem component renders HistoryItem component 1`] = `
     <p>
       https://anapioficeandfire.com/api/characters/583
     </p>
-    <p />
+    <p>
+      This is the body
+    </p>
   </section>
 </DocumentFragment>
 `;

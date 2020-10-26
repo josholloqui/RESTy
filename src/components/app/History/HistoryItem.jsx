@@ -12,7 +12,7 @@ const HistoryItem = ({ url, method, body }) => (
 HistoryItem.propTypes = {
   url: PropTypes.string.isRequired,
   method: PropTypes.string.isRequired,
-  body: PropTypes.string
+  body: PropTypes.string.isRequired
 };
 
 export default HistoryItem;
